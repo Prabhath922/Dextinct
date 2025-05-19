@@ -1,0 +1,18 @@
+
+[
+    {
+      "id": 1,
+      "name": "Red Fox",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Vulpes_vulpes_laying_in_snow.jpg",
+      "description": "Endangered due to habitat loss.",
+      "extinctionDate": "2025-05-20T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Blue Whale",
+      "image": "assets/images/blue-whale-andrew-sutton-2000.jpg",
+      "description": "Threatened by ship strikes and climate change.",
+      "extinctionDate": "2025-07-01T12:00:00Z"
+    }
+  ]
+  
